@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-sunwood-ai-labs-release-notes-generator-iris-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-sunwood-ai-labs-release-notes-generator-iris-mcp-server)
+
 # 🌈 Iris MCP Server
 
 <div align="center">
